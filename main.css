@@ -1,13 +1,13 @@
 
     
     body {
-        font-family: 'Xanh Mono', monospace;
+        font-family: neue-haas-unica;
         color: blanchedalmond;
         background: rgb(37, 37, 37);
     }
     
     .heading {
-        font-family: 'Neue Haas Unica';
+        font-family: Neue Haas Unica;
         font-weight: 550;
         font-size: 4.5rem;
         text-align: center;
@@ -17,7 +17,7 @@
     }
     
     h1 {
-        font-family: 'Neue Haas Unica';
+        font-family: neue-haas-unica;
         font-weight: 400;
         font-size: 2.5rem;
         margin: 0;
